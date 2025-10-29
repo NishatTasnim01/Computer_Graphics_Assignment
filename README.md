@@ -1,7 +1,5 @@
 # CSE 426 — Computer Graphics Lab Assignment (Spring 2025) 
 
-**By:** Nishat Tasnim (`NishatTasnim01`) — Student ID: `21201149`
-
 ## Tasks 
 
 **Task #01 You are required to implement Bresenham's Line Drawing Algorithm with the following variations and constraints.**
@@ -116,8 +114,10 @@ task1a.exe
 ## Contact
 
 Solved By: **Nishat Tasnim**
+
 GitHub: [https://github.com/NishatTasnim01](https://github.com/NishatTasnim01)
-Student Tag: `21201149`
+
+Student ID: `21201149`
 
 ## Acknowledgements
 
