@@ -1,7 +1,6 @@
 # CSE 426 — Computer Graphics Lab Assignment (Spring 2025) 
 
-**Repository:** Computer Graphics Assignment — implementation of line / circle drawing and clipping algorithms using C++ & OpenGL/GLUT.
-**By:** Nishat Tasnim (`NishatTasnim01`) — Student ID / Tag: `21201149`
+**By:** Nishat Tasnim (`NishatTasnim01`) — Student ID: `21201149`
 
 ## Tasks 
 
